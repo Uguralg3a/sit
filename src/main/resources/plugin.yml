@@ -1,0 +1,10 @@
+name: Sit
+version: '${version}'
+main: de.ugur.sit.Sit
+api-version: 1.19
+authors: [ Ugur ]
+commands:
+  sit:
+    description: Setz dich hin
+    aliases:
+      - setzen
