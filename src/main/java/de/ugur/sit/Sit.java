@@ -1,6 +1,6 @@
 package de.ugur.sit;
 
-import de.ugur.sit.commands.SitCommand;
+
 import org.bukkit.Location;
 import org.bukkit.World;
 import org.bukkit.command.Command;
